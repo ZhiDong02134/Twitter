@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://raw.githubusercontent.com/sundries-hub/LifeReviewFile/master/uPic/Kapture%202021-04-26%20at%2018.59.55.gif" alt="Kapture 2021-04-26 at 18.59.55" style="zoom: 100%;" />
+<img src=https://media.giphy.com/media/9L8a8Og9HtA2yQfnvf/giphy.gif" style="zoom: 100%;" />
 
 
 
