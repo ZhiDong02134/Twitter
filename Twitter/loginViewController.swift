@@ -2,8 +2,8 @@
 //  loginViewController.swift
 //  Twitter
 //
-//  Created by KagurazakaX on 4/18/21.
-//  Copyright © 2021 Dan. All rights reserved.
+//  Created by Danny Dong on 3/1/22.
+//  Copyright © 2022 Dan. All rights reserved.
 //
 
 import UIKit
